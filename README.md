@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi, i'am amar 👋
+- I’m currently learning everything 😄
+- Fun fact: Pecel Lele is the best food ⚡
 <!--
 **amarkng/amarkng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
