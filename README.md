@@ -1,4 +1,4 @@
-### Hi, i'am amar 👋
+### Hi 👋
 - I’m currently learning everything 😄
 - Fun fact: Pecel Lele is the best food ⚡
 <!--
