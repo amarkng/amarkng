@@ -1,6 +1,7 @@
 ### Hi 👋
 - I’m currently learning everything 😄
 - Fun fact: Pecel Lele is the best food ⚡
+- Currently studying at Telkom University
 <!--
 **amarkng/amarkng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
