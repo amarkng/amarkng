@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi my full name is Sachra Ramadhan but you call me rama or amar 
 - I’m currently learning everything 😄
 - Fun fact: Pecel Lele is the best food ⚡
 - Currently studying at Telkom University
