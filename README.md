@@ -8,9 +8,13 @@
 <h3 align="center">A passionate software developer from Indonesia 🇨🇦</h3>
 
 <div align="center">
-    - 💻 I’m currently learning everything 😄 
-    - 📕 Currently studying at Telkom University
-    - ⚡ Fun fact: Nasi Goreng is the best food in the world 
+    
+💻 I’m currently learning everything 😄 
+
+📕 Currently studying at Telkom University
+
+⚡ Fun fact: Nasi Goreng is the best food in the world 
+    
 </div>
 
 <div align="center"> 
