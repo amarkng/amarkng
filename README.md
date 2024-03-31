@@ -4,7 +4,7 @@
 </h1>
 
 <h2 align="center"> 
-    Hi my full name is Sachra Ramadhan but you call me rama or amar 
+    Hi my full name is Sachra Ramadhan but you can call me rama or amar 👋
 </h2>
 
 <h3 align="center">A passionate software developer from Indonesia 🇨🇦</h3>
