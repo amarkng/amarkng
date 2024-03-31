@@ -13,7 +13,7 @@
 
 <div align="center">
     
-💻 I’m currently learning everything 😄 
+💻 I’m currently learning laravel 😄 
 
 📕 Currently studying at Telkom University
 
