@@ -5,7 +5,7 @@
 
 ### Hi my full name is Sachra Ramadhan but you call me rama or amar 
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate software developer from Indonesia 🇨🇦</h3>
 
 <div align="center">
     - 💻 I’m currently learning everything 😄 
@@ -19,9 +19,6 @@
   </a>
   <a href="https://linkedin.com/in/sachra-ramadhan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://instagram.com/ramadhansachra" target="blank">
-     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rama" height="30 width="40" />
   </a>
 </p>
 </div>
